@@ -1,0 +1,34 @@
+{
+    "name": "youngyezi/flarum-ext-neteasemusic",
+    "description": "网易云音乐内嵌Flarum 中.",
+    "type": "flarum-extension",
+    "keywords": ["neteasemusic"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "youngyezi"
+        }
+    ],
+    "require": {
+        "flarum/core": "^0.1.0-beta.5",
+        "s9e/flarum-ext-mediaembed": "^0.3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Youngyezi\\NeteaseMusic\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        },
+        "flarum-extension": {
+            "title": "NeteaseMusic",
+            "icon": {
+                "name": "youku-play",
+                "backgroundColor": "#cc181e",
+                "color": "#fff"
+            }
+        }
+    }
+}
