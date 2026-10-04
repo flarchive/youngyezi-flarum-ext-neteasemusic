@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of youngyezi/flarum-ext-neteasemusic.** Not for installation: use [Packagist](https://packagist.org/packages/youngyezi/flarum-ext-neteasemusic) or the [upstream repository](https://github.com/Youngyezi/flarum-ext-neteasemusic).
 
-**0** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/youngyezi-flarum-ext-neteasemusic/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**1** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/youngyezi-flarum-ext-neteasemusic/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2016-08-01 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/youngyezi-flarum-ext-neteasemusic/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/youngyezi-flarum-ext-neteasemusic.json](https://github.com/flarchive/archive-index/blob/main/packages/youngyezi-flarum-ext-neteasemusic.json)
 
